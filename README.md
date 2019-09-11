@@ -1,5 +1,11 @@
 # Ten Years of Rails Upgrades
 
+> 🏡 This repo has been archived, but it has a new home! 
+> * Find the repo at https://github.com/fastruby/next_rails
+> * The gem is now published at https://rubygems.org/gems/next_rails
+
+---
+
 This is a companion to the "Ten Years of Rails Upgrades" conference talk. You'll find various utilities that we use at Clio to help us prepare for and complete Rails upgrades.
 
 These scripts are still early days and may not work in every environment or app.
